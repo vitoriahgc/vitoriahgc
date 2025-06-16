@@ -1,35 +1,41 @@
-<h1 align="center">Olá, eu sou a Vitória 👩🏾‍💻</h1>
-<p align="center">Engenharia da Computação | Desenvolvimento | Automação | Visualização de Dados</p>
+<h1 align="center">Oi, eu sou a Vitória 👋</h1>
+
+<p align="center">
+  <b>Designer Gráfica | UI/UX | Criativa e apaixonada por transformar ideias em experiências visuais.</b>
+</p>
 
 ---
-
-## Sobre mim
 
 Sou profissional de Engenharia da Computação com foco em transformar tecnologia em soluções inteligentes, funcionais e acessíveis. Tenho interesse em automação, front-end, visualização de dados e no desenvolvimento de projetos que unem lógica, desempenho e usabilidade.
 
----
-
-## Tecnologias & Ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
+📍 Baseada no Brasil  
+💻 Atualmente explorando mais sobre design de produto e front-end  
+🖼️ Também compartilho meus projetos no <a href="https://www.behance.net/vitoriahgcdesign" target="_blank">Behance</a>  
 
 ---
 
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitóriahgc/)](https://www.linkedin.com/in/vitóriahgc/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vitoriahgc/)](https://www.instagram.com/vitoriahgc/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vitoria.henriques@hotmail.com)](mailto:vitoria.henriques@hotmail.com)
+### 🌟 Meus interesses
+- Identidade visual & branding  
+- UI/UX design  
+- Design emocional  
+- Tipografia e composição  
+- Figma, Adobe XD, Illustrator e Photoshop  
+- Um pouco de HTML e CSS também!  
 
 ---
 
-<p align="center">
-  <em>“Código é a arte de transformar lógica em soluções que funcionam.”</em>
-</p>
+### 📲 Conecte-se comigo
+
+[![Instagram](https://img.shields.io/badge/@vitoriahgc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitoriahgc/)  
+[![LinkedIn](https://img.shields.io/badge/Vitória%20Henriques%20Gonçalves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitóriahgc)
+
+---
+
+### 💼 Alguns projetos que você pode gostar
+🔸 Design de interfaces no Figma  
+🔸 Identidade visual fictícia para marcas criativas  
+🔸 Apresentações e materiais visuais para profissionais da saúde  
+
+> *"Design não é apenas o que parece. Design é como funciona." – Steve Jobs*
+
+---
