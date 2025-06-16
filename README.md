@@ -9,26 +9,26 @@
 💻 **Sou profissional de Engenharia da Computação** com foco em transformar tecnologia em soluções inteligentes, funcionais e acessíveis.
 
 🚀 Interesso-me por:
-- Desenvolvimento front-end
-- Automação de processos
-- Visualização de dados
-- Projetos que unem lógica, desempenho e usabilidade
+- Desenvolvimento front-end  
+- Automação de processos  
+- Visualização de dados  
+- Projetos que unem lógica, desempenho e usabilidade  
 
 🔧 Tecnologias e ferramentas que utilizo:
-- JavaScript, Python e C
-- HTML, CSS e frameworks front-end
-- Git & GitHub
-- SQL e bancos de dados
-- Ferramentas de automação e desenvolvimento
+- JavaScript, Python e C  
+- HTML, CSS e frameworks front-end  
+- Git & GitHub  
+- SQL e bancos de dados  
+- Ferramentas de automação e desenvolvimento  
 
 ---
 
 ### 📈 Estou sempre buscando aprender mais sobre:
-- Desenvolvimento web
-- Machine Learning
-- Internet das Coisas (IoT)
-- Cloud Computing e DevOps
-- Engenharia de Software
+- Desenvolvimento web  
+- Machine Learning  
+- Inteligência Artificial (IA)  
+- Internet das Coisas (IoT)  
+- Cloud Computing e DevOps  
 
 ---
 
